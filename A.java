@@ -23,6 +23,7 @@ class A
 		}
 		else
 			System.out.println("it is a not palindrome name");
+		systrm.out.print("ak");
 
 // java
 	}
